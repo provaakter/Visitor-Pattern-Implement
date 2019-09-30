@@ -1,7 +1,7 @@
 # Visitor Pattern Implementation
 
 <h2>Scenario</h2>
- <p>Consider the following data structure: The data structure we consider, is organised as a binary tree, each node has a value. The tree is structured as following: Each node dose only knows its parent node and its right neighbour. Public known is the most left (and most bottom) node, the root node is not known (see figure 1). Further, the data structure is filled from LEFT to RIGHT and from TOP to BOTTOM (see figure 2).</p>
+ <p>Consider the following data structure: The data structure consider here, is organised as a binary tree, each node has a value. The tree is structured as following: Each node dose only knows its parent node and its right neighbour. Public known is the most left (and most bottom) node, the root node is not known (see figure 1). Further, the data structure is filled from LEFT to RIGHT and from TOP to BOTTOM (see figure 2).</p>
 
 <img src="images/nodes.jpg">
 
